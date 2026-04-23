@@ -4,7 +4,7 @@ Bem-vindo ao repositório do **Techboard**! Este projeto foi desenvolvido como u
 
 ## 📝 Sobre o Projeto
 
-O Techboard é um projeto de treinamento de **HTML** e **CSS**. O objetivo principal aqui é exercitar a criação de layouts, organização de pastas e a aplicação prática de folhas de estilo para criar interfaces visuais atraentes e bem estruturadas.
+O Techboard é um projeto de treinamento de **HTML** e **CSS**. O objetivo  aqui é exercitar a criação de layouts, organização de pastas e a aplicação prática de folhas de estilo para criar interfaces visuais atraentes e bem estruturadas.
 
 ## 🛠️ Tecnologias Utilizadas
 
